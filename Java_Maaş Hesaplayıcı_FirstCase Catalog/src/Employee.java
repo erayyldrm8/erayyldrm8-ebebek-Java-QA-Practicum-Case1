@@ -1,6 +1,6 @@
 
 public class Employee {
-
+//98
 	private String name;
 	private double salary;
 	private double workHours;
